@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Главная</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
+    nav { margin-bottom: 20px; }
+    nav a { margin-right: 15px; text-decoration: none; color: #007BFF; }
+    nav a:hover { text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="index.html">Главная</a>
+    <a href="about.html">О технологиях програмирования</a>
+    <a href="contact.html">технические аспекты</a>
+  </nav>
+  <h1>Технологии програмирования</h1>
+  <p>— это совокупность методов, инструментов и процессов, используемых для разработки программного обеспечения, начиная от идеи и заканчивая его поддержкой</p>
+</body>
+
+</html>
